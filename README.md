@@ -89,3 +89,7 @@ DermaAI is an AI-powered diagnostic and staging platform for dermatological cond
 [Severity Assessment Logic]
         ↓
 [Results Returned to UI]
+
+
+<img width="1852" height="872" alt="image" src="https://github.com/user-attachments/assets/b4809466-ad95-4fc5-800b-81e2f443160b" />
+
